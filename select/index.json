@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "THE POLiCY",
+  "base_artist": "IDOLiSH7",
+  "createdAt": "2025-12-02T15:24:50.190191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Policy Merchant, the Silver Bay",
+      "artist": "Frog Eyes",
+      "has_synced": false,
+      "path": "select/01_The_Policy_Merchant,_the_Silver_Bay_Frog_Eyes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honesty Is the Policy",
+      "artist": "Saving Aimee",
+      "has_synced": false,
+      "path": "select/02_Honesty_Is_the_Policy_Saving_Aimee.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Policy Of Truth",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/03_The_Policy_Of_Truth_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "THE POLiCY",
+      "artist": "IDOLiSH7",
+      "has_synced": true,
+      "path": "select/04_THE_POLiCY_IDOLiSH7.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THE POLiCY",
+      "artist": "IDOLiSH7",
+      "has_synced": true,
+      "path": "select/05_THE_POLiCY_IDOLiSH7.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Policy of Truth",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_The_Policy_of_Truth_Depeche_Mode.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE POLiCY",
+      "artist": "IDOLiSH7",
+      "has_synced": false,
+      "path": "select/pl_01_THE_POLiCY_IDOLiSH7.txt"
+    }
+  ]
+}
